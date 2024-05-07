@@ -1,4 +1,7 @@
 # awesome-unnc
+A curated list of awesome resources for UNNCer
+
+- [Template](#Template)
 
 ## Template 
 
@@ -9,7 +12,7 @@
 This repository includes the LaTeX template and the submission cover for the University of Nottingham thesis/dissertation.
 
 It can be directly used for:
-AE3IDS Individual Dissertation Single Honours (UNNC)
-AE3IDJ Individual Dissertation Joint Honours (UNNC)
-G53IDS Individual Dissertation Single Honours (UNUK)
+- AE3IDS Individual Dissertation Single Honours (UNNC)
+- AE3IDJ Individual Dissertation Joint Honours (UNNC)
+- G53IDS Individual Dissertation Single Honours (UNUK)
 
